@@ -1,4 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&family=Poppins&display=swap");
+@import "../../components/PageHeader/style.scss";
+@import "../../components/TeacherItem/style.scss";
+
+@import "../../pages/Landing/styles.scss";
+@import "../../pages/TeacherForm/style.scss";
+@import "../../pages/TeacherList/style.scss";
 
 :root {
     --color-background: #f0f0f7;
