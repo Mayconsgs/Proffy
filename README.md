@@ -44,7 +44,7 @@ npm run start
 
 E vualá, se tudo estiver certo, o React irá abrir o site em seu navegador padrão.
 
-<img style='max-height: 480px;' src='https://github.com/Mayconsgs/Proffy/blob/master/images/Captura%20de%20tela%20de%202021-02-22%2012-34-37.png?raw=true'/>
+![Proffy](https://github.com/Mayconsgs/Proffy/blob/master/images/Captura%20de%20tela%20de%202021-02-22%2012-34-37.png?raw=true)
 
 ## Mobile
 
